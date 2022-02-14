@@ -69,3 +69,15 @@ body hr {
     background-color: #fff;
     margin: 0;
 }
+
+/*Responsive*/
+
+@media (min-width: 1px) and (max-width: 400px) {
+    body div.textos {
+        width: 72.12073074vw;
+    }
+
+    body hr {
+        width: 72.12073074vw;
+    }
+}
