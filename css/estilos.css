@@ -55,6 +55,7 @@ body div.textos {
 }
 
 body p {
+    font-family: 'Neue Haas Grotesk Display Pro';
     font-size: 34px;
     font-weight: 500;
     color: #FFF;
