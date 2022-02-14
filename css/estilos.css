@@ -13,7 +13,7 @@
         url('NeueHaasDisplay-MediumItalic.woff') format('woff'),
         url('NeueHaasDisplay-MediumItalic.ttf') format('truetype'),
         url('NeueHaasDisplay-MediumItalic.svg#NeueHaasDisplay-MediumItalic') format('svg');
-    font-weight: 500;
+    font-weight: 600;
     font-style: italic;
     font-display: swap;
 }
@@ -51,6 +51,7 @@ body div.textos {
     width: 49.54082101%;
     margin: auto;
     float: right;
+    margin-bottom: 100px;
 }
 
 body p {
