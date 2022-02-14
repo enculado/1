@@ -61,6 +61,10 @@ body p {
     margin-top: 2px;
 }
 
+body p.importantes {
+    margin-bottom: 150px;
+}
+
 body hr {
     size: 100px;
     width: 49.54082101vw;
@@ -79,5 +83,9 @@ body hr {
 
     body hr {
         width: 72.12073074vw;
+    }
+
+    body p.importantes {
+        margin-bottom: 50px;
     }
 }
