@@ -7,12 +7,12 @@
 
 @font-face {
     font-family: 'Neue Haas Grotesk Display Pro';
-    src: url('NeueHaasDisplay-MediumItalic.eot');
-    src: url('NeueHaasDisplay-MediumItalic.eot?#iefix') format('embedded-opentype'),
-        url('NeueHaasDisplay-MediumItalic.woff2') format('woff2'),
-        url('NeueHaasDisplay-MediumItalic.woff') format('woff'),
-        url('NeueHaasDisplay-MediumItalic.ttf') format('truetype'),
-        url('NeueHaasDisplay-MediumItalic.svg#NeueHaasDisplay-MediumItalic') format('svg');
+    src: url('fonts/NeueHaasDisplay-MediumItalic.eot');
+    src: url('fonts/NeueHaasDisplay-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/NeueHaasDisplay-MediumItalic.woff2') format('woff2'),
+        url('fonts/NeueHaasDisplay-MediumItalic.woff') format('woff'),
+        url('fonts/NeueHaasDisplay-MediumItalic.ttf') format('truetype'),
+        url('fonts/NeueHaasDisplay-MediumItalic.svg#NeueHaasDisplay-MediumItalic') format('svg');
     font-weight: 500;
     font-style: italic;
     font-display: swap;
